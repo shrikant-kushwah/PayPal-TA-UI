@@ -1,0 +1,22 @@
+.filter-buttons {
+  margin-bottom: 30px;
+}
+
+.filter-button {
+  background-color: #4caf50;
+  color: #ffffff;
+  border: none;
+  padding: 10px 20px;
+  margin-right: 10px;
+  border-radius: 4px;
+  cursor: pointer;
+  margin-top: 10px;
+}
+
+.filter-button:hover {
+  background-color: #45a049;
+}
+
+.filter-button:focus {
+  outline: none;
+}

@@ -1,0 +1,31 @@
+.header {
+    background-color: #0070ba;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+  .header-logo {
+    color: #fff;
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
+  .header-nav-list {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+  }
+  
+  .header-nav-item {
+    margin-left: 10px;
+    color: #fff;
+    cursor: pointer;
+  }
+  
+  .header-nav-item:first-child {
+    margin-left: 0;
+  }
+  
